@@ -1,11 +1,11 @@
 # AppMyStudy
 App final criado para a disciplina de Projeto Integrador do curso de Análise e Desenvolvimento de Sistemas do Centro Universitário Senac.
 
-Sobre
+*Sobre
 •	A aplicação tem por objetivo ajudar o usuário a se concentrar nos estudos, de forma dinâmica aplica um timer regressivo, com botões de play, pause e start, além de monitorar os dados móveis do celular.
 Tecnologias neste projeto
 
-Banco de dados
+*Banco de dados
 •	MySQL2 versão 3.2.4.
 Backend
 •	NodeJs/ JavaScript.
