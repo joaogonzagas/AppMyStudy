@@ -33,7 +33,9 @@ IDEs
 
 * Todo o código foi desenvolvido utilizando o Visual Studio Code, integrado ao Node.js.
 A manipulação do banco de dados utilizou phpMyAdmin.
-As pastas do projeto estão dispostas da seguinte forma.
+
+As pastas do projeto estão dispostas da seguinte forma
+
 *	As navegações entre telas estão em App.js.
 *	Código fonte está disponível na pasta Src/Componentes e na raiz do projeto, arquivo App.js.
 *	Os scripts de banco de dados estão disponíveis em Controller.js.
